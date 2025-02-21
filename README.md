@@ -5,7 +5,7 @@ this'll be a extension to make attending contests in a much more streamlined / b
 
 docs : (ctrl shift p to run)
 
-`solveera.ProblemStatement(problemLink) - (creates instance of problemstatement.txt for <problem> on <platform>)`
+`solveera.ProblemStatement(problemLink) - (creates instance of problemstatement.txt for <problem> on <platform>)`<br>
 `sovleera.SubmitFile([location][link]) - (sumbits code to <platform>)`
 
 everything starts small!
